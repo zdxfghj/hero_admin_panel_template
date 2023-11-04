@@ -27,7 +27,13 @@ const reducer = (state = initialState, action) => {
                 return {
                     ...state,
                     heroes: newHeroesList,
-                }
+            }
+            case 'HEROES_ADD':
+                const addHeroToList = [...state.heroes, action.payload];
+                return {
+                    ...state,
+                    heroes: addHeroToList,
+            }
         default: return state
     }
 }

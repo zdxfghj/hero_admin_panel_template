@@ -1,29 +1,29 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
-      "element": "fire"
-    },
-    {
-        "id": 2,
-        "name": "Second герой",
-        "description": "Second герой в рейтинге!",
-        "element": "fire"
-      },
-    {
       "id": 3,
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
     },
     {
-        "id": 4,
-        "name": "Therd герой",
-        "description": "Therd герой в рейтинге!",
-        "element": "fire"
-      }
+      "id": "49c54385-e751-4bba-990f-080c1b516e9c",
+      "name": "Герой ветра",
+      "description": "управлять ветром",
+      "element": "wind"
+    },
+    {
+      "id": "360c0be4-dbf6-499b-9185-2a331beaeb0e",
+      "name": "Герой огня",
+      "description": "управляю огнем",
+      "element": "fire"
+    },
+    {
+      "id": "c6871a95-3c57-4746-be9b-48d43967b7e0",
+      "name": "Герой земли  ",
+      "description": "управляю стихией земли",
+      "element": "earth"
+    }
   ],
   "filters": [
     "all",
