@@ -7,12 +7,6 @@
       "element": "water"
     },
     {
-      "id": "49c54385-e751-4bba-990f-080c1b516e9c",
-      "name": "Герой ветра",
-      "description": "управлять ветром",
-      "element": "wind"
-    },
-    {
       "id": "360c0be4-dbf6-499b-9185-2a331beaeb0e",
       "name": "Герой огня",
       "description": "управляю огнем",
@@ -23,13 +17,39 @@
       "name": "Герой земли  ",
       "description": "управляю стихией земли",
       "element": "earth"
+    },
+    {
+      "id": "c9b0ff02-3c16-4268-bd33-e35f17297a69",
+      "name": "ddd",
+      "description": "dd",
+      "element": "wind"
     }
   ],
   "filters": [
-    "all",
-    "fire",
-    "water",
-    "wind",
-    "earth"
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
   ]
 }
