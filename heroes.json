@@ -13,21 +13,27 @@
       "element": "fire"
     },
     {
-      "id": "c6871a95-3c57-4746-be9b-48d43967b7e0",
-      "name": "Герой земли  ",
-      "description": "управляю стихией земли",
-      "element": "earth"
+      "id": "88ade118-f7d7-4468-80ad-278c8fa799b0",
+      "name": "sdfsdf",
+      "description": "sdfsd",
+      "element": "water"
     },
     {
-      "id": "c9b0ff02-3c16-4268-bd33-e35f17297a69",
-      "name": "ddd",
-      "description": "dd",
+      "id": "e8a14325-af98-4685-8eac-e1686698eca7",
+      "name": "sdfsdf",
+      "description": "sdfsdf",
       "element": "wind"
     },
     {
-      "id": "c910067c-0661-4d8d-b4e8-7ef3a7e56d31",
-      "name": "sdfsdf",
-      "description": "sdfsd",
+      "id": "83ef9e44-1901-4257-98d3-6f40dcfc3cdf",
+      "name": "sdf",
+      "description": "sdf",
+      "element": "wind"
+    },
+    {
+      "id": "a427e5eb-2ef2-43d0-a56e-f787f174b20b",
+      "name": "sdf",
+      "description": "sdf",
       "element": "earth"
     }
   ],
