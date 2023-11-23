@@ -25,16 +25,10 @@
       "element": "wind"
     },
     {
-      "id": "83ef9e44-1901-4257-98d3-6f40dcfc3cdf",
+      "id": "610e061a-89f7-487f-a67d-9d29344a2c63",
       "name": "sdf",
-      "description": "sdf",
-      "element": "wind"
-    },
-    {
-      "id": "a427e5eb-2ef2-43d0-a56e-f787f174b20b",
-      "name": "sdf",
-      "description": "sdf",
-      "element": "earth"
+      "description": "sdsdf",
+      "element": "water"
     }
   ],
   "filters": [
