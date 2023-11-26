@@ -1,12 +1,6 @@
 {
   "heroes": [
     {
-      "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
-      "element": "water"
-    },
-    {
       "id": "360c0be4-dbf6-499b-9185-2a331beaeb0e",
       "name": "Герой огня",
       "description": "управляю огнем",
